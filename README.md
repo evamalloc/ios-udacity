@@ -1,2 +1,0 @@
-# ios-udacity
-Udacity homework
